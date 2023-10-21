@@ -58,7 +58,7 @@ Server VPS Data center Hardware
 ### Conclusion
 Component <------> IN/OUT TS Schema <------> HTTP -----> API
 
-Learn JSX, TypeScript, Vue.js, init Github project
+Learn JSX, TypeScript, Vue.js, search tutorial send message to telegram from browser
 
 
 ### Pet Project
